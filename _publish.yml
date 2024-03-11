@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 8cf1983f-32b2-43de-b006-ba837b35714d
+      url: 'vanda-suklar.netlify.app'

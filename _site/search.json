@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 3\n\n[1] 4"
+    "text": "About this site"
   },
   {
     "objectID": "Projects.html",
@@ -18,13 +18,13 @@
     "href": "index.html",
     "title": "Vanda Suklar",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "index.html#this-is-a-quarto-website.",
     "href": "index.html#this-is-a-quarto-website.",
     "title": "Vanda Suklar",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
