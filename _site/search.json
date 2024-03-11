@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 3\n\n[1] 4"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "About this site\n\nsample(100)\n\n  [1]  41  80  21   7  74  12  48  64  98  43  54  53  20  63   9  46  27  62\n [19]  17  70  97  58  34  22  33  38  91  57  61  30  56  72  51  50  35  10\n [37] 100  85   5  73  31  55  32  79  90  37   2   3   4  95  59  68  45  24\n [55]  69  88  19  25  29  11   8  47  75  94  83  26  60  77  65  13  67   1\n [73]  99  96  76  71  40  15  36  28  82   6  14  44  86  66  16  84  52  89\n [91]  23  81  39  18  78  87  49  92  42  93"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vanda Suklar",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#this-is-a-quarto-website.",
+    "href": "index.html#this-is-a-quarto-website.",
+    "title": "Vanda Suklar",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

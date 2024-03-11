@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Vanda Suklar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Bio
+      - href: Projects.qmd
+        text: Projects        
+        
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute: 
+  freeze: auto 
+
