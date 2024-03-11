@@ -8,9 +8,11 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Bio
-      - href: Projects.qmd
-        text: Projects        
+        text: Academic Background
+
+  page-footer:
+    right: "&copy; 2024, Vanda Suklar" 
+  
         
       
 

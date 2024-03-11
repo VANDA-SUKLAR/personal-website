@@ -2,22 +2,29 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Vanda Suklar",
     "section": "",
-    "text": "About this site"
+    "text": "STATS 100A INTRODUCTION TO PROBABILITY\nSTATS 100B INTRODUCTION TO STATISTICS\nSTATS 100C LINEAR MODELS\nSTATS 101A INTRODUCTION TO DATA ANALYSIS AND REGRESSION\nSTATS 101B INTRODUCTION TO DESIGN AND ANALYSIS OF EXPERIMENT\nSTATS 102A INTRODUCTION TO COMPUTATIONAL STATISTICS\nSTATS 140XP PRACTICE OF STATISTICAL CONSULTING PART 1"
+  },
+  {
+    "objectID": "about.html#ucla-relevant-courses",
+    "href": "about.html#ucla-relevant-courses",
+    "title": "Vanda Suklar",
+    "section": "",
+    "text": "STATS 100A INTRODUCTION TO PROBABILITY\nSTATS 100B INTRODUCTION TO STATISTICS\nSTATS 100C LINEAR MODELS\nSTATS 101A INTRODUCTION TO DATA ANALYSIS AND REGRESSION\nSTATS 101B INTRODUCTION TO DESIGN AND ANALYSIS OF EXPERIMENT\nSTATS 102A INTRODUCTION TO COMPUTATIONAL STATISTICS\nSTATS 140XP PRACTICE OF STATISTICAL CONSULTING PART 1"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Attached is my Resume"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Vanda Suklar",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "index.html#this-is-a-quarto-website.",
-    "href": "index.html#this-is-a-quarto-website.",
-    "title": "Vanda Suklar",
-    "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my website! I’m Vanda, a UCLA undergrad majoring in Statistics and Data Science with a minor in Mathematics, set to graduate in December 2024. Here, you’ll find my academic background and Resume.\nOff-campus, I enjoy time with Latte, my adorable 12-year-old Shorkie - She’s featured in my profile picture!\nConnect with me through GitHub, LinkedIn, or email, all linked here. Whether it’s about data science or sharing pet stories, I’m excited to engage!"
   }
 ]

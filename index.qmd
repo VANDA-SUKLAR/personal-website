@@ -1,9 +1,24 @@
 ---
 toc: false
+about: 
+  template: trestles
+  image: latte.jpg
+  links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/vanda-suklar-aa653021b/
+        - icon: github
+          text: Github
+          url: https://github.com/VANDA-SUKLAR
+        - icon: inbox-fill
+          text: Email
+          url: "mailto:vsuklar@gmail.com"
+          
 ---
 
 
-## This is a Quarto website.
+Welcome to my website! I'm Vanda, a UCLA undergrad majoring in Statistics and Data Science with a minor in Mathematics, set to graduate in December 2024. Here, you'll find my academic background and [Resume](/Resume.pdf"Resume").
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Off-campus, I enjoy time with Latte, my adorable 12-year-old Shorkie - She's featured in my profile picture!
 
+Connect with me through GitHub, LinkedIn, or email, all linked here. Whether it's about data science or sharing pet stories, I'm excited to engage!
