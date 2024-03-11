@@ -2,8 +2,3 @@
 title: "Projects"
 ---
 
-About this site
-
-```{r}
-sample(100)
-```
