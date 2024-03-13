@@ -11,3 +11,15 @@ toc: false
 - STATS 101B INTRODUCTION TO DESIGN AND ANALYSIS OF EXPERIMENT
 - STATS 102A INTRODUCTION TO COMPUTATIONAL STATISTICS
 - STATS 140XP PRACTICE OF STATISTICAL CONSULTING PART 1
+
+
+## Projects
+
+- STATS 101A: Predicting Per Capita Income by County (2021)
+
+[Project Report](/quarto/STATS_101A_Project_Report.pdf "Project_Report").
+
+
+- STATS 101B: A Study on Islanders to Determine the Effects of Dark Chocolate with Varying Cocoa Percentages on Blood Glucose
+
+[Project Report](/quarto/STATS_101B_Project_Report.pdf "Project_Report").

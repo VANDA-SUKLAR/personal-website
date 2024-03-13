@@ -17,7 +17,7 @@ about:
 ---
 
 
-Welcome to my website! I'm Vanda, a UCLA undergrad majoring in Statistics and Data Science with a minor in Mathematics, set to graduate in December 2024. Here, you'll find my academic background and [Resume](/Resume.pdf"Resume").
+Welcome to my website! I'm Vanda, a UCLA undergrad majoring in Statistics and Data Science with a minor in Mathematics, set to graduate in December 2024. Here, you'll find my academic background and [Resume](/quarto/Resume.pdf "Resume").
 
 Off-campus, I enjoy time with Latte, my adorable 12-year-old Shorkie - She's featured in my profile picture!
 
